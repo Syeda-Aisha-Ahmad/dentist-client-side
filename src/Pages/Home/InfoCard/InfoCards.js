@@ -11,7 +11,7 @@ const InfoCards = () => {
             icon: clock,
             description: 'Open 9.00 am to 5.00 pm everyday',
             name: 'Opening Hours',
-            bgClass: 'bg-primary'
+            bgClass: 'bg-primary bg-gradient-to-r from-primary to-secondary'
         },
         {
             id: 2,
@@ -25,7 +25,7 @@ const InfoCards = () => {
             icon: phone,
             description: 'Open 9.00 am to 5.00 pm everyday',
             name: 'Opening Hours',
-            bgClass: 'bg-primary'
+            bgClass: 'bg-primary bg-gradient-to-r from-primary to-secondary'
         }
     ]
     return (
