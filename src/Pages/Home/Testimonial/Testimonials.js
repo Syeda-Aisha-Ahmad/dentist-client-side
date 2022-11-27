@@ -32,7 +32,7 @@ const Testimonials = () => {
 
     ]
     return (
-        <div className='mt-32'>
+        <div className='mt-32 mb-20'>
             <div className='flex justify-between mb-20'>
                 <div>
                     <h4 className="text-2xl font-bold text-primary mb-5">Appointment</h4>

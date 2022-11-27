@@ -31,7 +31,7 @@ const Footer = () => {
                     <a className="link link-hover">Cookie policy</a>
                 </div>
             </div>
-            <div className='text-center mt-5'>
+            <div className='text-center mt-20'>
                 <p>Copyright © 2022 - All right reserved by ACME Industries Ltd</p>
             </div>
         </footer>

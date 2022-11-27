@@ -1,0 +1,5 @@
+.shadow-style {
+    box-shadow: -12px 9px 32px -11px rgba(0, 0, 0, 0.55);
+    -webkit-box-shadow: -12px 9px 32px -11px rgba(0, 0, 0, 0.55);
+    -moz-box-shadow: -12px 9px 32px -11px rgba(0, 0, 0, 0.55);
+}
